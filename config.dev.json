@@ -16,14 +16,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100088085177610"
+    "61557606501853"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": []
   }, 
   "nickNameBot": "𝖨𝗍𝗌𝗎𝗄𝗂 𝖭𝖺𝗄𝖺𝗇𝗈 ♡",
-  "prefix": ":",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
